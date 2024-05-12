@@ -6,7 +6,8 @@
 
 [![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python&logoColor=white)](URL_to_Python_section_or_repo)
 [![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java&logoColor=white)](URL_to_Java_section_or_repo)
-[![C++](https://img.shields.io/badge/C++-green?style=flat-square&logo=cplusplus&logoColor=white)]([URL_to_C++_section_or_repo](https://github.com/Hong-Luu/CS-210-C-plus-plus.git))
+[![C++](https://img.shields.io/badge/C++-green?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/Hong-Luu/CS-210-C-plus-plus.git)
+
 
 
 
