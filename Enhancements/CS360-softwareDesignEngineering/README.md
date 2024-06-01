@@ -36,7 +36,7 @@ The primary aim of this project is to develop an Inventory App that supports:
 
 ## Technical Implementation
 - **Frontend:** Developed using Android Studio and designed for intuitive user interaction.
-- **Backend:** Utilizes a robust database with tables for user data and inventory items, ensuring data integrity and responsive app performance.
+- **Backend:** Utilizes a database with tables for user data and inventory items, ensuring data integrity and responsive app performance.
 
 ## Enhancements and Reflections
 ### Enhancements
