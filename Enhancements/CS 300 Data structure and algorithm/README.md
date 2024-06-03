@@ -47,3 +47,5 @@ This project assumes the user has basic understanding of:
 - **QuickSort**: Demonstrated superior performance with much faster sorting times, even on large datasets.
 
 ## Screenshots
+![Screenshot](https://github.com/Hong-Luu/CS-499-Computer-Science-Capstone/blob/main/Enhancements/CS%20300%20Data%20structure%20and%20algorithm/cs300%201.png)
+![Screenshot](https://github.com/Hong-Luu/CS-499-Computer-Science-Capstone/blob/main/Enhancements/CS%20300%20Data%20structure%20and%20algorithm/cs300%202.png)
