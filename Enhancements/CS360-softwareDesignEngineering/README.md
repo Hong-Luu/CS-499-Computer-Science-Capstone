@@ -47,3 +47,20 @@ The primary aim of this project is to develop an Inventory App that supports:
 - Faced challenges in data synchronization across different user roles.
 
 ## Screenshots
+![Screenshot](https://github.com/Hong-Luu/CS-499-Computer-Science-Capstone/blob/main/Enhancements/CS360-softwareDesignEngineering/app1.png)
+![Screenshot](https://github.com/Hong-Luu/CS-499-Computer-Science-Capstone/blob/main/Enhancements/CS360-softwareDesignEngineering/login.png)
+![Screenshot](https://github.com/Hong-Luu/CS-499-Computer-Science-Capstone/blob/main/Enhancements/CS360-softwareDesignEngineering/create%20sucessfully.png)
+![Screenshot](https://github.com/Hong-Luu/CS-499-Computer-Science-Capstone/blob/main/Enhancements/CS360-softwareDesignEngineering/login%20sucessfully.png)
+![Screenshot](https://github.com/Hong-Luu/CS-499-Computer-Science-Capstone/blob/main/Enhancements/CS360-softwareDesignEngineering/data%20display.png)
+![Screenshot](https://github.com/Hong-Luu/CS-499-Computer-Science-Capstone/blob/main/Enhancements/CS360-softwareDesignEngineering/all%20items.png)
+![Screenshot](https://github.com/Hong-Luu/CS-499-Computer-Science-Capstone/blob/main/Enhancements/CS360-softwareDesignEngineering/add%20blanket.png)
+![Screenshot](https://github.com/Hong-Luu/CS-499-Computer-Science-Capstone/blob/main/Enhancements/CS360-softwareDesignEngineering/inscrease.png)
+![Screenshot](https://github.com/Hong-Luu/CS-499-Computer-Science-Capstone/blob/main/Enhancements/CS360-softwareDesignEngineering/decrease.png)
+![Screenshot](https://github.com/Hong-Luu/CS-499-Computer-Science-Capstone/blob/main/Enhancements/CS360-softwareDesignEngineering/remove.png)
+![Screenshot](https://github.com/Hong-Luu/CS-499-Computer-Science-Capstone/blob/main/Enhancements/CS360-softwareDesignEngineering/grant%20permission.png)
+![Screenshot](https://github.com/Hong-Luu/CS-499-Computer-Science-Capstone/blob/main/Enhancements/CS360-softwareDesignEngineering/allow%20sms.png)
+![Screenshot](https://github.com/Hong-Luu/CS-499-Computer-Science-Capstone/blob/main/Enhancements/CS360-softwareDesignEngineering/low%20alert%20sent.png)
+![Screenshot](https://github.com/Hong-Luu/CS-499-Computer-Science-Capstone/blob/main/Enhancements/CS360-softwareDesignEngineering/denied.png)
+
+
+
