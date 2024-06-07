@@ -39,4 +39,4 @@ The primary aim of this project is to develop a dashboard that supports:
 - **Learning Outcomes**: Gained deeper insights into full-stack development and the specific needs of data-driven decision-making in animal rescue.
 
 ## Screenshots
-![Screenshot](
+![Screenshot](https://github.com/Hong-Luu/CS-499-Computer-Science-Capstone/blob/main/Enhancements/CS%20340%20-%20Databases/logo.png)
