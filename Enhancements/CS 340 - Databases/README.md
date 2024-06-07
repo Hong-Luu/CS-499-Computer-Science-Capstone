@@ -21,18 +21,35 @@ The primary aim of this project is to develop a dashboard that supports:
 - **User Authentication**: Ensure secure access to the dashboard, maintaining data integrity and user privacy.
 
 ## Screens and Navigation
-- **Login/Register Screen**: Secure access for authenticated users.
-- **Dashboard Main View**: Interactive filters and visual representation of data.
-- **Detailed Data Views**: In-depth information available through drill-down capabilities in charts and tables.
+The dashboard is designed to provide a user-friendly and intuitive interface for interacting with the dataset:
+
+- **Main Dashboard View**: Features interactive filter options including buttons and drop-downs to filter the dataset by rescue type (Water, Mountain/Wilderness, Disaster/Individual Tracking). Each selection dynamically updates the data displayed across the dashboard widgets.
+- **Data Table Widget**: Displays detailed data that responds to the filters applied, allowing users to delve into specifics as needed.
+- **Geolocation Chart**: Visualizes data points on a map, providing geographical insights into the rescue operations.
+- **Pie Chart Widget**: Offers a graphical representation of data distributions, such as dog breed prevalence, which also responds to the selected filters.
+- **Filter Control Section**: Allows users to reset the filters to their original state or apply specific filters to focus on particular types of rescue operations.
 
 ## Technical Implementation
-- **Frontend**: Developed using Dash by Plotly, ensuring high responsiveness and interactivity.
-- **Backend**: Utilizes Python for backend processes with Pandas for data manipulation and MongoDB for data storage, ensuring efficient data handling.
+To run the Austin Animal Center Outcomes Dashboard, you need the following setup:
 
+1. **Jupyter Notebook**: Ensure you have access to Jupyter Notebook. It can typically be found on the desktop screen within the lab environment.
+2. **Project Files**:
+   - Upload the `ProjectTwoDashboard.ipynb` file into Jupyter Notebook.
+   - Open the file within Jupyter Notebook to start working on the project.
+3. **Grazioso Salvare Logo**:
+   - Download the logo from the provided assignment resources.
+   - Upload it to the same directory as your Jupyter Notebook project file for integration into the dashboard.
+4. **Austin Animal Center Outcomes Spreadsheet**:
+   - Download the CSV file from the assignment.
+   - Upload this file to the same directory as your Jupyter Notebook project file to ensure the dashboard can access and process the data.
+5. **Apporto Lab**: If using a cloud-based environment like Apporto Lab:
+   - Upload all project files, including the Jupyter Notebook, logo, and CSV data file, to your session in Apporto Lab.
+     
 ## Enhancements and Reflections
 ### Enhancements
-- **Improved Data Interaction**: Enhanced filtering options allow for more precise data querying and manipulation.
-- **Advanced Visualization Techniques**: Utilized advanced charting libraries to provide clearer and more actionable insights.
+- **Data Interaction and Real-time Updates**: The dashboard has been enhanced to include real-time data filtering and interaction capabilities, allowing users to dynamically query the dataset based on different types of rescue operations. This enhancement not only improves the user experience but also increases the accuracy of the data analysis provided to Grazioso Salvare.
+- **User Interface Design**: Significant improvements have been made to the user interface to ensure it is intuitive and user-friendly. The addition of interactive elements such as dropdowns and radio buttons makes navigating the data straightforward, minimizing user errors and training time.
+- **Visual Analytics**: We have incorporated advanced visual analytics, including a geolocation chart and a pie chart, which dynamically update based on the filters applied. This allows users to visually analyze complex datasets with ease, enhancing their ability to make informed decisions quickly.
 
 ### Reflections
 - **Challenges**: Addressed challenges in data integration and real-time responsiveness of the dashboard.
