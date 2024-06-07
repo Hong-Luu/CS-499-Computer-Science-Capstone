@@ -39,4 +39,14 @@ The primary aim of this project is to develop a dashboard that supports:
 - **Learning Outcomes**: Gained deeper insights into full-stack development and the specific needs of data-driven decision-making in animal rescue.
 
 ## Screenshots
-![Screenshot](https://github.com/Hong-Luu/CS-499-Computer-Science-Capstone/blob/main/Enhancements/CS%20340%20-%20Databases/logo.png)
+![Screenshot](https://github.com/Hong-Luu/CS-499-Computer-Science-Capstone/blob/main/Enhancements/CS%20340%20-%20Databases/logo1.png)
+![Screenshot](https://github.com/Hong-Luu/CS-499-Computer-Science-Capstone/blob/main/Enhancements/CS%20340%20-%20Databases/logo2.png)
+![Screenshot](https://github.com/Hong-Luu/CS-499-Computer-Science-Capstone/blob/main/Enhancements/CS%20340%20-%20Databases/starting%20date.png)
+![Screenshot](https://github.com/Hong-Luu/CS-499-Computer-Science-Capstone/blob/main/Enhancements/CS%20340%20-%20Databases/water%20rescue%20is%20selected.png)
+![Screenshot](https://github.com/Hong-Luu/CS-499-Computer-Science-Capstone/blob/main/Enhancements/CS%20340%20-%20Databases/mountain%20rescue.png)
+![Screenshot](https://github.com/Hong-Luu/CS-499-Computer-Science-Capstone/blob/main/Enhancements/CS%20340%20-%20Databases/disaster%20rescue.png)
+![Screenshot](https://github.com/Hong-Luu/CS-499-Computer-Science-Capstone/blob/main/Enhancements/CS%20340%20-%20Databases/reset%20mode.png)
+![Screenshot](https://github.com/Hong-Luu/CS-499-Computer-Science-Capstone/blob/main/Enhancements/CS%20340%20-%20Databases/water%20rescue%20pie%20chart%20map.png)
+![Screenshot](https://github.com/Hong-Luu/CS-499-Computer-Science-Capstone/blob/main/Enhancements/CS%20340%20-%20Databases/mountain%20rescue%20pie%20chart%20map.png)
+![Screenshot](https://github.com/Hong-Luu/CS-499-Computer-Science-Capstone/blob/main/Enhancements/CS%20340%20-%20Databases/disater%20rescue%20pie%20chart%20map.png)
+![Screenshot](https://github.com/Hong-Luu/CS-499-Computer-Science-Capstone/blob/main/Enhancements/CS%20340%20-%20Databases/reset%20mode%20pie%20chart%20map.png)
