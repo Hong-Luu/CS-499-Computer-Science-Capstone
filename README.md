@@ -15,9 +15,6 @@ Welcome to my professional ePortfolio, a comprehensive showcase of my journey an
 Code reviews are a fundamental aspect of professional software development, serving not only to improve code quality but also to foster learning and collaboration among team members. By examining each other's code, developers can share knowledge, identify potential issues early, and collectively enhance the functionality and security of their applications. In this ePortfolio, you will find a dedicated section that delves into a detailed code review of my projects, reflecting on both the successes and areas for improvement. 
 As part of the ongoing development of my ePortfolio artifacts, I have prepared a written informal code review that is essential for pinpointing possible improvements and demonstrating my continuous growth in technical skills. This written review delves into the existing functionalities of my projects and sets forth detailed plans for their enhancement. Undertaking this review in written form not only supports the quality of the applications but also ensures their maintainability as technologies advance and requirements change. [Explore my detailed code reviews here.](https://github.com/Hong-Luu/CS-499-Computer-Science-Capstone/tree/main/Code%20Reviews)
 
-
-
-
 ## Reflecting on My Journey
 
 Throughout my time in the Computer Science program, I have engaged in an attentive academic and practical learning experience that has equipped me with a solid foundation in both theoretical and applied aspects of technology. This ePortfolio encapsulates my growth, showcasing my ability to tackle complex problems, adapt to various technologies, and deliver solutions that meet and exceed expectations.
@@ -40,6 +37,23 @@ The artifacts included in this ePortfolio represent a curated selection of my wo
 - **Artifact 1**: Illustrates my approach to software engineering and project management. [View Artifact](https://github.com/Hong-Luu/CS-499-Computer-Science-Capstone/tree/main/Artifacts/CS-300%20Data%20structure%20and%20algorithm)
 - **Artifact 2**: Showcases my ability to design and interact with complex databases. [View Artifact](https://github.com/Hong-Luu/CS-499-Computer-Science-Capstone/tree/main/Artifacts/CS%20340%20-%20Databases%20)
 - **Artifact 3**: Focuses on security measures and data protection in software applications. [View Artifact](https://github.com/Hong-Luu/CS-499-Computer-Science-Capstone/tree/main/Artifacts/CS-360%20Software%20Design%20Engineering)
+
+## Narrative
+
+### Introduction
+
+Welcome to my ePortfolio, where each artifact represents a pivotal learning journey throughout my Computer Science program. These narratives delve into the insights gained and skills developed through the creation and enhancement of each artifact, emphasizing my growth as a versatile software developer ready to tackle complex challenges in the tech industry.
+
+### Artifacts and Narratives
+
+Explore the narratives below to understand the significance of each artifact in my ePortfolio:
+
+- [CS-300 Data Structures and Algorithms](https://github.com/Hong-Luu/CS-499-Computer-Science-Capstone/tree/main/Enhancements/CS%20300%20Data%20structure%20and%20algorithm)
+- [CS-340 Databases](https://github.com/Hong-Luu/CS-499-Computer-Science-Capstone/tree/main/Enhancements/CS%20340%20-%20Databases)
+- [CS-360 Software Design Engineering](https://github.com/Hong-Luu/CS-499-Computer-Science-Capstone/tree/main/Enhancements/CS360-softwareDesignEngineering)
+
+Each narrative reflects on the artifact's creation, justification for inclusion, skills demonstrated, and lessons learned through the enhancement process. These artifacts collectively showcase my ability to apply theoretical knowledge to practical scenarios, tackle challenges collaboratively, and deliver impactful solutions in software development.
+
 
 
 ## Conclusion
