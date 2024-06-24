@@ -22,9 +22,6 @@ As part of the ongoing development of my ePortfolio artifacts, I have prepared a
 ### Collaborating in a Team Environment
 During my coursework, I have engaged in multiple group projects that required close collaboration with peers. For example, in my software engineering class, I worked with a team to develop an agile project from inception to deployment. This experience taught me the importance of effective communication, reliability, and flexibility in team settings, skills that are crucial for any technology professional.
 
-### Communicating with Stakeholders
-I have learned to bridge the gap between technical and non-technical audiences, an essential skill in technology projects. In my database management class, I regularly presented our project progress to stakeholders, explaining complex database schemas and functionalities in an accessible manner. This experience has been instrumental in refining my ability to convey technical information clearly and effectively.
-
 ### Data Structures and Algorithms
 My proficiency in data structures and algorithms was refined through challenging coursework and projects, such as implementing an efficient searching and sorting algorithm for an inventory system. These experiences have not only solidified my understanding of fundamental computer science principles but have also enhanced my problem-solving skills.
 
