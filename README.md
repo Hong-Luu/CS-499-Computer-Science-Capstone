@@ -35,7 +35,7 @@ My education has also encompassed key aspects of computer security, including se
 The artifacts included in this ePortfolio represent a curated selection of my work, demonstrating my technical skills across a range of computer science areas. From developing software and managing databases to implementing security measures and optimizing algorithms, each artifact contributes to a holistic view of my capabilities.
 
 - **Artifact 1**: Illustrates my approach to software engineering and project management. [View Artifact](https://github.com/Hong-Luu/CS-499-Computer-Science-Capstone/tree/main/Artifacts/CS-360%20Software%20Design%20Engineering)
-- **Artifact 2**: Showcases my ability to design and interact with complex databases. [View Artifact](https://github.com/Hong-Luu/CS-499-Computer-Science-Capstone/tree/main/Artifacts/CS%20340%20-%20Databases)
+- **Artifact 2**: Showcases my ability to design and interact with complex databases. [View Artifact](https://github.com/Hong-Luu/CS-499-Computer-Science-Capstone/tree/main/Artifacts/CS%20340%20-%20Databases%20)
 - **Artifact 3**: Focuses on security measures and data protection in software applications. [View Artifact](https://github.com/Hong-Luu/CS-499-Computer-Science-Capstone/tree/main/Artifacts/CS-300%20Data%20structure%20and%20algorithm)
 
 
