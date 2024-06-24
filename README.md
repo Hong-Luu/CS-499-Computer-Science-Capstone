@@ -39,11 +39,6 @@ The artifacts included in this ePortfolio represent a curated selection of my wo
 - **Artifact 3**: Focuses on security measures and data protection in software applications. [View Artifact](https://github.com/Hong-Luu/CS-499-Computer-Science-Capstone/tree/main/Artifacts/CS-360%20Software%20Design%20Engineering)
 
 ## Narrative
-
-### Introduction
-
-Welcome to my ePortfolio, where each artifact represents a pivotal learning journey throughout my Computer Science program. These narratives delve into the insights gained and skills developed through the creation and enhancement of each artifact, emphasizing my growth as a versatile software developer ready to tackle complex challenges in the tech industry.
-
 ### Artifacts and Narratives
 
 Explore the narratives below to understand the significance of each artifact in my ePortfolio:
