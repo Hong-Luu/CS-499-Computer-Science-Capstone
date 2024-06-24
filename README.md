@@ -13,6 +13,10 @@ Welcome to my professional ePortfolio, a comprehensive showcase of my journey an
 
 ## The Role of Code Reviews
 Code reviews are a fundamental aspect of professional software development, serving not only to improve code quality but also to foster learning and collaboration among team members. By examining each other's code, developers can share knowledge, identify potential issues early, and collectively enhance the functionality and security of their applications. In this ePortfolio, you will find a dedicated section that delves into a detailed code review of my projects, reflecting on both the successes and areas for improvement. [Read more about my code review process.](#informal-code-review)
+As part of the ongoing development of my ePortfolio artifacts, I have prepared a written informal code review that is essential for pinpointing possible improvements and demonstrating my continuous growth in technical skills. This written review delves into the existing functionalities of my projects and sets forth detailed plans for their enhancement. Undertaking this review in written form not only bolsters the quality of the applications but also ensures their robustness and maintainability as technologies advance and requirements change. [Read my detailed code review in writing.](#informal-code-review)
+
+
+
 
 ## Professional Growth and Skill Development
 ### Collaborating in a Team Environment
