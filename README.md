@@ -11,6 +11,9 @@
 ## Overview
 Welcome to my professional ePortfolio, a comprehensive showcase of my journey and accomplishments in the field of Computer Science. Throughout my academic program, I have developed a strong portfolio of projects and skills, demonstrating my ability to tackle complex problems, collaborate effectively, and deliver impactful technological solutions.
 
+## The Role of Code Reviews
+Code reviews are a fundamental aspect of professional software development, serving not only to improve code quality but also to foster learning and collaboration among team members. By examining each other's code, developers can share knowledge, identify potential issues early, and collectively enhance the functionality and security of their applications. In this ePortfolio, you will find a dedicated section that delves into a detailed code review of my projects, reflecting on both the successes and areas for improvement. [Read more about my code review process.](#informal-code-review)
+
 ## Professional Growth and Skill Development
 ### Collaborating in a Team Environment
 During my coursework, I have engaged in multiple group projects that required close collaboration with peers. For example, in my software engineering class, I worked with a team to develop an agile project from inception to deployment. This experience taught me the importance of effective communication, reliability, and flexibility in team settings, skills that are crucial for any technology professional.
